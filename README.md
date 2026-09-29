@@ -356,7 +356,6 @@ footer {
     margin-top: 15px;
 }
 </style>
-    <link rel="stylesheet" href="style.css">
 </head>
 
 <body>
